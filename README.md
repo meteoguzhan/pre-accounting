@@ -1,18 +1,18 @@
-##  Laravel Ön Muhasebe Projesi
+## Laravel Pre-Accounting Project
 
-- Müşteri Yönetimi
-- Gelir - Gider Kalemleri Yönetimi
-- Gelir - Gider Fatura Yönetimi
-- Ürün Yönetimi
-- Banka Yönetimi
-- Tahsilat - Ödeme İşlemleri Yönetimi
-- Raporlama
+- Customer Management
+- Income - Expense Items Management
+- Income - Expense Invoice Management
+- Product Management
+- Bank Management
+- Collection - Payment Transactions Management
+- Reporting
 
-## Kurulum
-- `php composer.phar install` veya `composer install`
+## Setup
+- `php composer.phar install` or `composer install`
 - `php artisan migrate`
 - `php artisan cache:clear`
 
-##  Arayüz
+## Interface
 
 ![](https://i.ibb.co/0Z7LCy1/onmuhasebe.png)
